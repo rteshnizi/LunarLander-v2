@@ -24,7 +24,7 @@ The below chart shows the moving average of Reward and Time Steps as well as los
 
 ## Testing
 
-You can test the trained agent once checkpoints and log files are created by changing lines 116 and 117 in [`tester.py`](tester.py).
+You can test the trained agent once checkpoints and log files are created by changing lines 116 and 117 in [`tester.py`](tester.py#L116).
 
 The current tester code uses the weights of a trained network.
 
